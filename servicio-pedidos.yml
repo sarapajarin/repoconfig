@@ -14,7 +14,7 @@ eureka:
    service-url:
      default-zone: http://localhost:8761/eureka
 server:
- port: 7000
+  port: 7000
 remote:
   url: "http://servicio-productos/"
   user: admin
